@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">¡Bogotá     2600 más cerca de las estrellas!</string>
+    <string name="publicidad_bogota">"Bienvenido a Bogota App, una aplicación en la que podrás encontrar información sobre la capital de Colombia,la ciudad que está a 2600 mt más cerca de las estrellas</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="Bares">Bares bogotanos</string>
+    <string name="sitios">Sitios turisticos</string>
+    <string name="InformacionDemografica">Información demográfica</string>
+    <string name="autor">Autor de App Bogota</string>
+    <string name="title_activity_hotel">Hotel</string>
+    <string name="title_activity_hotels">hotels</string>
+    <string name="hotels2">Seleccione un hotel para ver más información   </string>
+    <string name="Hotel_Tequendama">Hotel Tequendama</string>
+    <string name="info_teque">El Hotel Crowne Plaza Tequendama es "\n" un hotel situado en el barrio San Diego de la localidad de Santa Fe de la ciudad de Bogotá. Se ubica en la carrera Décima con avenida Veintiséis.
+    "\n" Tel:382 03 00
+    "\n" Website:www.tequendamahotel.com
+    </string>
+    <string name="Inicio">Inicio</string>
+
+    <string name="Hotel_Rosales">Hotel Rosales Plaza</string>
+    <string name="info_rosales">
+
+        El Hotel Rosales Plaza está ubicado en una zona dinámica del privilegíado sector Rosales de Bogotá. Se encuentra cerca a las sedes de prestigiosas empresas y quienes viajan por placer podrán disfrutar de esta conveniente localización cerca de la Zona Rosa, el teatro Nacional y centros comerciales como Avenida Chile, Atlantis, Centro Andino y el Retiro.
+        "\n"Tel: 317 11 00
+        "\n"Website:www.hotelrosalesplaza.com
+    </string>
+    <string name="Hotel_Mercure">Hotel Mercure Cosmo 100</string>
+<string name="info_mercure">
+
+
+Disfrute de una experiencia hotelera inigualable en Bogotá, Colombia. El Hotel  Centro de Convenciones Cosmos 100 hábilmente mezcla el confort con un servicio amigable en el corazón de uno de los distritos financieros de la ciudad.
+
+        "\n"Tel: 646 4000
+        "\n"Website:www.cosmos100.com
+    </string>
+    <string name="title_activity_bares">bares</string>
+    <string name="bares_seleccion">Seleccione un bar para ver mas informacion</string>
+    <string name="andresCarne">Andres Carne de Res</string>
+    <string name="infoAndres">
+Andrés Carne de Res es un restaurante que se ha ganado un lugar en los corazones de locales y extranjeros por la mezcla de una llamativa decoración que mezcla una gran variedad de objetos dispuestos en los techos y paredes, en una suerte de estilo kitsch o barroco, por la buena música que ponen y que va llevando a los comensales a una euforia fiestera y finalmente por su menú, que ofrece platos al carbón. La especialidad de este restaurante son las carnes.
+"\n"Ubicación: Zona Rosa de Bogotá.
+"\n"Teléfono:8637800
+"\n"Website:www.andrescarnederes.com
+    </string>
+    <string name="CafeGaira">Café Gaira</string>
+    <string name="infoGaira">
+        La combinación entre la comida, la música tropical y la decoración crean un ambiente acogedor y una atmósfera de fiesta que recuerda la alegría de la costa. Se recomienda pedir de entrada un patacón o una carimañola. La ensalada Gairera es muy buena y la sopa de tomate es una de las mejores de la ciudad.
+    "\n"Tel:7462696
+        "\n"Website:www.gairacafe.co
+
+
+    </string>
+
+    <string name="Aguapanelas">Aguapanelas Internacional</string>
+    <string name="infoAguapanela">
+         Es un amplio espacio para la rumba tropical, sede de varias presentaciones de artistas de salsa, vallenato, merengue y hasta reggaetón. Aguapanelas Internacional está ubicado en el kilómetro 19 en la vía que de Bogotá conduce a Chía. La entrada no tiene costo los días regulares, pero se necesita un consumo individual de $25.000 pesos por persona.
+         "\n"Tel:6760218
+         "\n"Website:agupanelas.com
+
+
+    </string>
+
+    <string name="Candelaria">Candelaria</string>
+    <string name="infoCandelaria">
+        La mayor parte de sus construcciones que se conservan, forma parte del Patrimonio Histórico y han sido declaradas bienes de interés Histórico y Cultural.
+        Concentra la mayor actividad Cultural con cerca de 500 Instituciones o Grupos Artísticos, Museos y Centros de Investigación o Formación, que se convierten en sus principales atractivos.
+       "\n"La candelaria es reconocida por el legado arquitectónico de sus calles, ha sido y continúa siendo epicentro de hechos y testigo de la historia política colombiana. Así como se convirtió en escenario del Día de la Independencia el 20 de Julio de 1810 y el 9 de abril de 1948, hoy La Candelaria parece dibujar en cada una de sus calles, la historia de la ciudad y del bogotano y del país en cada una de sus construcciones y pasaj
+    </string>
+    <string name="Monserrate">Monserrate</string>
+    <string name="infoMonserrate">
+        Situado a 3.152 metros de altura en los Cerros Orientales, Monserrate es el encargado de custodiar la ciudad. A él se puede llegar a pié, en teleférico o en funicular. Su Santuario del Señor Caído, de gran valor religioso, es visitado por miles de peregrinos católicos.
+    "\n"  Desde este lugar mágico es posible apreciar una magnífica panorámica de Bogotá y disfrutar de la gastronomía típica e internacional en sus dos restaurantes
+    "\n"Ubicación: Se llega por la Carrera 2da. Este No. 21 - 48, Paseo de Bolívar.
+
+    </string>
+    <string name="TrenSabana">Tren de la Sabana</string>
+    <string name="infoTren">
+Descubra la bella Sabana de Bogotá a bordo de un tren clásico con antiguas locomotoras a vapor amorosamente restauradas. Disfrute del paisaje de la sabana, la comida colombiana, la música de la banda papayera y nuestro servicio. Visite Zipaquirá (catedral de sal) y Cajicá (típico pueblo sabanero). Sábados, Domingos y Festivos.
+"\n"Direccion:Calle 13 No. 18-24
+
+
+
+    </string>
+    <string name="PoblacionBogota">
+        En el último censo realizado por el DANE Bogotá tiene una población de:
+        "\n" 7.878.783 habitantes
+
+
+    </string>
+    <string name="miNombre">Creado por:
+        "\n"Johann Edward Polanía González
+    "\n"Estudiante de Ingeniería de Telecomunicaciones
+     "\n"Universidad de Antioquia-2016
+    </string>
+
+    <string name="home">Inicio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ubicacion">¿Donde queda?</string>
+    <string name="Intro">Bienvenido a Bogotá</string>
+
+
+</resources>

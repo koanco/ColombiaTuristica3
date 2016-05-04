@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <string name="app_name">¡Bogotá 2600 Nearer the stars!</string>
+        <string name="publicidad_bogota">"Welcome to Bogota App, an application that lets you find information about the capital of Colombia , the city is at 2600 mt closer to the stars</string>
+        <string name="hoteles">Hotels</string>
+        <string name="Bares">Bogotano pub</string>
+        <string name="sitios">Sides turistics</string>
+        <string name="InformacionDemografica">Demographic information</string>
+        <string name="autor">Author App Bogota</string>
+        <string name="title_activity_hotel">Hotel</string>
+        <string name="title_activity_hotels">hotels</string>
+        <string name="hotels2">Choose a hotel for look more information   </string>
+        <string name="Hotel_Tequendama">Hotel Tequendama</string>
+    <string name="info_teque">The Hotel Square Tequendama is  a hotel placed  in the neighborhood  San Diego of location  Santa Fe of the Bogotá. It is located on the career Tenth Avenue 26
+    "\n" Phone:382 03 00
+    "\n" Website:www.tequendamahotel.com
+    </string>
+    <string name="Inicio">Home</string>
+
+        <string name="Hotel_Rosales">Hotel Square Rosales </string>
+    <string name="info_rosales">
+
+       Rosales Plaza Hotel is located in a dynamic area of Bogota Rosales privileged sector. It is close to the headquarters of prestigious companies and leisure travelers will enjoy the convenient location near the Zona Rosa, the National Theatre and shopping centers like Avenida Chile, Atlantis , Andino Centro and Retiro
+        "\n"Phone: 317 11 00
+        "\n"Website:www.hotelrosalesplaza.com
+    </string>
+        <string name="Hotel_Mercure">Hotel Mercure Cosmo 100</string>
+<string name="info_mercure">
+
+
+Enjoy a unique hotel experience in Bogota, Colombia . The Hotel Cosmos 100 Convention Center cleverly mixes comfort with friendly service in the heart of one of the financial districts of the city.
+
+        "\n"Phone: 646 4000
+        "\n"Website:www.cosmos100.com
+    </string>
+        <string name="title_activity_bares">Pub</string>
+        <string name="bares_seleccion">Select a bar to see more information</string>
+        <string name="andresCarne">Andres Carne de Res</string>
+    <string name="infoAndres">
+Andrés Carne de Res it is a restaurant that has earned a place in the hearts of locals and foreigners mix of striking decor that mixes a variety of objects arranged on the ceilings and walls, in a sort of kitsch or baroque, for good music laying and is taking guests to a party girl euphoria and finally by its menu , which offers dishes to coal. The specialty of this restaurant are meat .
+"\n"Location: Rose zone
+"\n"Phone:8637800
+"\n"Website:www.andrescarnederes.com
+    </string>
+        <string name="CafeGaira">Café Gaira</string>
+    <string name="infoGaira">
+        The combination of food, music and tropical decor create a welcoming atmosphere and a party atmosphere that recalls the joy of the coast. It is recommended to ask one patacón input or carimañola . The Gairera salad is very good and the tomato soup is one of the best in town .
+    "\n"Phone:7462696
+        "\n"Website:www.gairacafe.co
+
+
+    </string>
+
+        <string name="Aguapanelas">Aguapanelas Internacional</string>
+    <string name="infoAguapanela">
+         It is a large space for tropical rumba, home to several presentations by artists of salsa, vallenato , merengue and even reggaeton. Aguapanelas International is located at kilometer 19 on the road that leads to Chia Bogota . The entrance is free of charge regular days , but an individual consumption needs $ 25,000 pesos per person.
+         "\n"Phone:6760218
+         "\n"Website:agupanelas.com
+
+
+    </string>
+
+        <string name="Candelaria">Candelaria</string>
+    <string name="infoCandelaria">
+        Most of its buildings are preserved , it is part of the historical heritage and have been declared goods of historical and cultural interest .
+        Cultural activity has the largest with about 500 institutions or groups Artistic, museums and research centers or training , which become its main attractions.
+       "\n"Candlemas is recognized by the architectural legacy of its streets, it has been and continues to be the epicenter of events and witness of Colombian political history . As it became the scene of Independence Day on July 20, 1810 and April 9, 1948 , today La Candelaria seems to draw in each of its streets , the history of the city and Bogota and the country in each one of its buildings and passages.
+    </string>
+        <string name="Monserrate">Monserrate</string>
+    <string name="infoMonserrate">
+        Located 3,152 meters high in the eastern hills , Monserrate is in charge of guarding the city. He can be reached by foot, cable car and funicular. His Shrine of the Fallen , of great religious value, is visited by thousands of Catholic pilgrims .
+    "\n"  From this magical place it is possible to see a magnificent panorama of Bogota and enjoy local and international cuisine in its two restaurants
+    "\n"Location: Career 2. East No. 21 - 48, Walk de Bolívar.
+
+    </string>
+        <string name="TrenSabana">Sabana Train</string>
+    <string name="infoTren">
+Discover the beautiful Bogota Savannah aboard a classic train with old steam locomotives lovingly restored . Enjoy the scenery of Savannah, Colombian food , music papayera band and our service. Visit Zipaquirá ( Salt Cathedral ) and Cajicá (typical sabanero people ) . Saturdays, Sundays and holidays
+"\n"Location:Street 13 No. 18-24
+
+
+
+    </string>
+    <string name="PoblacionBogota">
+        In the last census conducted by the DANE Bogota it has a population of:
+        "\n" 7.878.783 population
+
+
+    </string>
+    <string name="miNombre">Created by:
+        "\n"Johann Edward Polanía González
+    "\n"Student in Telecommunications engineering
+     "\n"University Antioquia-2016
+    </string>
+
+        <string name="home">Home</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="ubicacion">¿Where is?</string>
+    <string name="Intro">Welcome to Bogota</string>
+
+    </resources>
+
+
+
+
+

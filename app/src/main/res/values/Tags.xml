@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="opciones">
+        <item>@string/Inicio</item>
+        <item>@string/title_activity_hotel</item>
+        <item>@string/sitios</item>
+        <item>@string/title_activity_bares</item>
+
+        <item>@string/InformacionDemografica</item>
+
+    </string-array>
+
+
+
+</resources>
